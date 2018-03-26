@@ -1,0 +1,68 @@
+body {
+  position: relative;
+  height: 800px;
+  width: 900px;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+p {
+  color: white;
+  font-size: 18px;
+  text-align: center;
+}
+
+div {
+  position: absolute;
+  display: inline-block;
+}
+
+a {
+  display: block;
+}
+
+.author-links {
+  width: 150px;
+  top: 300px;
+  left: 25px;
+}
+
+.author-links a {
+  display: flex;
+  align-items: center;
+  margin: 20px 0px;
+}
+
+.author-links img {
+  height: 50px;
+  width: 50px;
+  margin: 0 auto;
+}
+
+.lose-img {
+  width: 300px;
+  height: auto;
+}
+
+#lose-modal {
+  position: fixed;
+  z-index: 1;
+  top: 250px;
+  left: 355px;
+}
+
+.is-hidden {
+  display: none;
+}
+
+.lost {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+#canvas-wrapper {
+  left: 200px;
+}
