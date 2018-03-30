@@ -59,7 +59,7 @@ a {
 }
 
 .lost {
-  background: rgba(0, 0, 0, 0.3);
+  filter: brightness(.3);
 }
 
 #canvas-wrapper {
@@ -74,4 +74,17 @@ a {
   z-index: 1;
   color: white;
   font-size: 14px;
+}
+
+#sound-button {
+  color: white;
+  height: 24px;
+  width: 24px;
+  position: absolute;
+  left: 310px;
+  top: 69px;
+}
+
+#sound-button:hover {
+  cursor: pointer;
 }
