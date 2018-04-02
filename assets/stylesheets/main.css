@@ -67,6 +67,13 @@ a {
   left: 350px;
 }
 
+#instructions {
+  position: absolute;
+  left: 350px;
+  z-index: 2;
+  border: 1px solid black;
+}
+
 #score {
   position: absolute;
   right: 80px;
@@ -85,6 +92,15 @@ a {
   top: 69px;
 }
 
-#sound-button:hover {
+#info-button {
+  color: white;
+  height: 24px;
+  width: 24px;
+  position: absolute;
+  left: 310px;
+  top: 105px;
+}
+
+#sound-button:hover, #info-button:hover {
   cursor: pointer;
 }
