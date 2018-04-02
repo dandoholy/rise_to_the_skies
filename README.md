@@ -90,7 +90,7 @@ finding appropriate values of x for which (time % x) evaluated to every ~1-3 sec
 * High Scores
 
 # SCREENSHOTS
-<img src="https://media.giphy.com/media/9x51SQwiFetpZOtgQL/giphy.gif" width="120" height="140" />
+<img src="https://media.giphy.com/media/9x51SQwiFetpZOtgQL/giphy.gif" width="180" height="210" />
 * Build up speed to jump even higher!
-<img src="https://media.giphy.com/media/9xyJ0cl7bLIZXuDAV7/giphy.gif" width="120" height="140" />
+<img src="https://media.giphy.com/media/9xyJ0cl7bLIZXuDAV7/giphy.gif" width="180" height="240" />
 * Platforms are removed as time progresses.  Avoid falling to your death!
