@@ -7,10 +7,10 @@
 * HTML Canvas
 
 # Instructions
-* Make sure you have npm (brew install node)
-* Make sure you have webpack (npm install webpack)
-* Run 'npm webpack'
+* Use L/R arrow keys to move character
+* Use Space to Jump
+* Press Enter at any time to reset game
+* Platforms disappear one at a time as time goes on.  Don't fall to your death.
 
 # Future Features
-* Instruction modal
-* Fix sprite
+* High Scores
